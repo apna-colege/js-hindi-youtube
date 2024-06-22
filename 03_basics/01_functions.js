@@ -8,7 +8,7 @@ function sayMyName(){
     console.log("H");
 }
 
-// sayMyName()
+ sayMyName()
 
 // function addTwoNumbers(number1, number2){
 
